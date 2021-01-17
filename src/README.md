@@ -29,7 +29,7 @@
 
 * IntelliJ IDEA Community Edition
 
-* [Money Transfer](https://github.com/EliseevG787/JAVAQA-2.1/blob/master/src/Main.java)
+* [MoneyTransfer](https://github.com/EliseevG787/JAVAQA-2.1/blob/master/src/Main.java)
 
 ### Общие рекомендации
 Произошёл выход итогового значения за границы типа переменной
